@@ -1,0 +1,18 @@
+
+<!doctype html>
+<html>
+    <title>BDaaS</title>
+    <div>
+        <form method=post>
+            <label for="appname">Choose your class name to upload (.class)</label>
+            <select name="appname" id="appname">
+            {% for l in lines %}
+                <option value={{l}}>{{l}}</option>
+            {% endfor %}
+            </select>
+            <input type=submit value=Submit >
+        </form>
+
+    </div>
+
+</html>

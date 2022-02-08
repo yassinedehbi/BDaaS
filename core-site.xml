@@ -1,0 +1,1 @@
+<configuration><property><name>fs.default.name</name><value>hdfs://54.91.42.153:9000</value></property><property><name>hadoop.tmp.dir</name><value>/tmp/hadoop</value></property></configuration>

@@ -1,0 +1,12 @@
+Host 0.0.0.0
+ 		IdentityFile /home/ubuntu/Name.pem
+ 		StrictHostKeyChecking no
+Host 18.233.10.146
+ 		IdentityFile /home/ubuntu/Name.pem
+ 		StrictHostKeyChecking no
+Host 3.88.135.215
+ 		IdentityFile /home/ubuntu/Name.pem
+ 		StrictHostKeyChecking no
+Host 3.83.112.42
+ 		IdentityFile /home/ubuntu/Name.pem
+ 		StrictHostKeyChecking no
